@@ -1,1 +1,3 @@
 # WordMate
+
+Sight words app
